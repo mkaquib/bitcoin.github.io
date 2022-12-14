@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/bitcoin.github.io/static/js/main.61debf25.js",
+    "static/media/btc.png": "/bitcoin.github.io/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/bitcoin.github.io/index.html",
+    "main.61debf25.js.map": "/bitcoin.github.io/static/js/main.61debf25.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.61debf25.js"
+  ]
+}
